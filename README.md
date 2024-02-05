@@ -7,20 +7,51 @@ This Bank Management System is a comprehensive Java project designed to simulate
 
 Key Features
 
-Account Management: Securely manage user accounts, including the creation of new accounts and updating existing ones.
-Transaction Processing: Execute basic banking transactions such as deposits, withdrawals, and fast cash options with ease.
-Balance Enquiry: Allows users to check their current account balance in real-time.
-Mini Statement: Generate a mini statement that outlines recent transaction history for the user.
-Pin Change Functionality: Enhance security by enabling users to change their PINs.
-Robust Database Integration: Utilizes JDBC to connect with a MySQL database, ensuring reliable data storage and management.
-User-Friendly Interface: Developed using Java Swing and AWT, offering a seamless and interactive user experience with buttons, labels, and text fields.
+Account Management: 
+
+Securely manage user accounts, including the creation of new accounts and updating existing ones.
+Transaction Processing:
+
+Execute basic banking transactions such as deposits, withdrawals, and fast cash options with ease.
+
+Balance Enquiry: 
+
+Allows users to check their current account balance in real-time.
+
+Mini Statement:
+
+Generate a mini statement that outlines recent transaction history for the user.
+
+Pin Change Functionality: 
+
+Enhance security by enabling users to change their PINs.
+
+Robust Database Integration: 
+
+Utilizes JDBC to connect with a MySQL database, ensuring reliable data storage and management.
+
+User-Friendly Interface:
+
+Developed using Java Swing and AWT, offering a seamless and interactive user experience with buttons, labels, and text fields.
 
 Technologies Used
 
-Java: Core programming language for system development, ensuring cross-platform compatibility.
-Swing & AWT: Employed for crafting the graphical user interface, making the application accessible and easy to use.
-MySQL: Chosen for database management, facilitating secure and efficient data handling.
-JDBC: Java Database Connectivity, used for establishing a connection between the Java application and the MySQL database.
+Java: 
+
+Core programming language for system development, ensuring cross-platform compatibility.
+
+Swing & AWT:
+
+Employed for crafting the graphical user interface, making the application accessible and easy to use.
+
+MySQL: 
+
+Chosen for database management, facilitating secure and efficient data handling.
+
+JDBC: 
+
+Java Database Connectivity, used for establishing a connection between the Java application and the MySQL database.
+
 Getting Started
 To run this project, you'll need to have Java and MySQL installed on your system. Clone this repository, set up your MySQL database with the provided schema, and update the database connection details in the project. Compile and run the Java files to launch the application.
 
